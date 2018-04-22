@@ -1,0 +1,6 @@
+Flask
+XlsxWriter
+pandas
+openpyxl
+xlsxwriter
+pillow
