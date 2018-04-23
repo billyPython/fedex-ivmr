@@ -1,0 +1,1 @@
+ALLOWED_EXTENSIONS = ('xls', 'xlsx', 'csv')

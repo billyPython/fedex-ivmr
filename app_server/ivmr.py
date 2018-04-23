@@ -34,6 +34,11 @@ ivmr_field_mapping = {
 
 #TODO: Run this as class!! Restructure everything !
 
+class IVMR(object):
+
+    def __init__(self, path=None, file=None):
+        pass
+
 def cleanup(data):
     for d in data:
         for k, v in d.items():
